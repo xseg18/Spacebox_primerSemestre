@@ -1,0 +1,13 @@
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.csprojAssemblyReference.cache
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.Ingreso_Info.resources
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.Inicio.resources
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.Instrucciones.resources
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.Properties.Resources.resources
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.Simulacion.resources
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.csproj.GenerateResource.cache
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\bin\Debug\Spacebox_XSEG.exe.config
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\bin\Debug\Spacebox_XSEG.exe
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\bin\Debug\Spacebox_XSEG.pdb
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.exe
+C:\Users\eliza\OneDrive\Documentos\progra U\practica\proyectos\Spacebox_XSEG\Spacebox_XSEG\obj\Debug\Spacebox_XSEG.pdb
